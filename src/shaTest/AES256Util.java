@@ -18,7 +18,6 @@ public class AES256Util {
 		}
 
 
-
 		byte[] ba = new byte[hex.length() / 2];
 
 		for (int i = 0; i < ba.length; i++) {
